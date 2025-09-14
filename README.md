@@ -1,4 +1,4 @@
-﻿# 🏠 Buyer Lead Intake App
+﻿#  Buyer Lead Intake App
 
 A mini app to create, view, filter, and manage **real estate buyer leads**.
 
